@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>15043657412-4tsv80imh3pgnhjj9pmb3fe39skqf7rg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.15043657412-4tsv80imh3pgnhjj9pmb3fe39skqf7rg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaAIxykjM7xJMYp5XiUfmgXP1x1MQCjwU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>15043657412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ewoolab.tmobipassenger.tmobiPassenger</string>
+	<key>PROJECT_ID</key>
+	<string>tmobiportfolio</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tmobiportfolio.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:15043657412:ios:bc7c6113dbef2f76e91391</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "15043657412",
+    "project_id": "tmobiportfolio",
+    "storage_bucket": "tmobiportfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15043657412:android:52b4fd41319d8215e91391",
+        "android_client_info": {
+          "package_name": "com.ewoolab.tmobipassenger.tmobi_passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15043657412-b22k0g9g6lm3hpiina4cm7q77cjnnv9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWiDhIT9b0D78wtwHhlonJm_rE0HWd5Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15043657412-b22k0g9g6lm3hpiina4cm7q77cjnnv9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15043657412-4tsv80imh3pgnhjj9pmb3fe39skqf7rg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ewoolab.tmobipassenger.tmobiPassenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
